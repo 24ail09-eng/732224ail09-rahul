@@ -1,3 +1,1 @@
-![alt text](image-1.png)
-safjisjf a
- fs
+![alt text](/images/1.png)
